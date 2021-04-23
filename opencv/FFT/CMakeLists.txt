@@ -1,0 +1,7 @@
+cmake_minimum_required (VERSION 3.15)
+PROJECT(FDT)
+FIND_PACKAGE(OpenCV REQUIRED)
+include_directories(${OpenCV_INCLUDE_DIRS})
+link_directories(${OpenCV_LIB_DIR})
+ADD_EXECUTABLE(${PROJECT_NAME} discrete_fourier_transform.cpp)
+TARGET_LINK_LIBRARIES(${PROJECT_NAME} ${OpenCV_LIBS})

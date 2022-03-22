@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fabsmpa/repos/playground/boost/basic/bboost.cpp
+boost/program_options.hpp
+-
+boost/any.hpp
+-
+boost/array.hpp
+-
+algorithm
+-
+vector
+-
+string
+-
+iostream
+-
+

@@ -1,3 +1,0 @@
-/home/fabsmpa/repos/playground/opencv/ImgSequence/build/CMakeFiles/rebuild_cache.dir
-/home/fabsmpa/repos/playground/opencv/ImgSequence/build/CMakeFiles/sequencer.dir
-/home/fabsmpa/repos/playground/opencv/ImgSequence/build/CMakeFiles/edit_cache.dir

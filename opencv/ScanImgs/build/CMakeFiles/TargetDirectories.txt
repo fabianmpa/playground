@@ -1,3 +1,0 @@
-/home/fabsmpa/repos/playground/opencv/ScanImgs/build/CMakeFiles/rebuild_cache.dir
-/home/fabsmpa/repos/playground/opencv/ScanImgs/build/CMakeFiles/scan.dir
-/home/fabsmpa/repos/playground/opencv/ScanImgs/build/CMakeFiles/edit_cache.dir

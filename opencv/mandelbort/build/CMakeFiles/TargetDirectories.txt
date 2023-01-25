@@ -1,3 +1,0 @@
-/home/fabsmpa/repos/playground/opencv/mandelbort/build/CMakeFiles/rebuild_cache.dir
-/home/fabsmpa/repos/playground/opencv/mandelbort/build/CMakeFiles/mandel.dir
-/home/fabsmpa/repos/playground/opencv/mandelbort/build/CMakeFiles/edit_cache.dir

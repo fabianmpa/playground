@@ -1,3 +1,0 @@
-/home/fabian/playground/mujoco/CMakeFiles/rebuild_cache.dir
-/home/fabian/playground/mujoco/CMakeFiles/edit_cache.dir
-/home/fabian/playground/mujoco/CMakeFiles/mExample.dir

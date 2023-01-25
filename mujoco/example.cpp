@@ -15,7 +15,7 @@ int main(void)
     }
 
     d=mj_makeData(m);
-    while(d->time < 100)
+    while(d->time < 10000)
     {
         mj_step(m,d);
     }

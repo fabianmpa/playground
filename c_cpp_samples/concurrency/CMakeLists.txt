@@ -1,0 +1,6 @@
+cmake_minimum_required (VERSION 3.15)
+PROJECT(hello_concurrent)
+FIND_PACKAGE(Threads REQUIRED)
+#link_directories(${OpenCV_LIB_DIR})
+ADD_EXECUTABLE(${PROJECT_NAME} hello_world.cpp)
+TARGET_LINK_LIBRARIES(${PROJECT_NAME} -pthread)

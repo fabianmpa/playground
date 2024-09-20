@@ -1,0 +1,5 @@
+if(EXISTS "/home/fabsmpa/playground/LeetCode/DisjointSet/tests/build/disjoint_set_tc[1]_tests.cmake")
+  include("/home/fabsmpa/playground/LeetCode/DisjointSet/tests/build/disjoint_set_tc[1]_tests.cmake")
+else()
+  add_test(disjoint_set_tc_NOT_BUILT disjoint_set_tc_NOT_BUILT)
+endif()
